@@ -1,8 +1,23 @@
-/*
-Again I Recommend that you comment where your code begins and ends
-This will make merging your code easier
-*/
+.div3{
+    border:5px solid black;
+    background-color: lightblue;
+    color: black;
+}
 
+.title{
+    font-size: 30px;
+    font-weight: bold ;
+    color:brown
+}
+
+li{
+    
+    /* margin-left: 100px; */
+    margin-right: 500px;
+    font-size: 17px;
+    font-weight: bold ;
+    color: brown;
+}
 /*Abdullahi Section*/
 
 #div0 {
@@ -19,19 +34,6 @@ This will make merging your code easier
     border:5px solid black;
     background-color: lightblue;
     color: black;
-}
-
-.title{
-    font-size: 30px;
-    font-weight: bold ;
-    color:brown
-}
-
-li{
-    margin-right: 500px;
-    font-size: 17px;
-    font-weight: bold ;
-    color: brown;
 }
 
 /*End of Abdullahi's Section*/

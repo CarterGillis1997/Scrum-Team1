@@ -18,3 +18,22 @@ li{
     font-weight: bold ;
     color: brown;
 }
+/*Abdullahi Section*/
+
+#div0 {
+    display: grid;
+}
+
+#div1{
+    border:1px solid black;
+    background-color: lightblue;
+    color: black;
+}
+
+#div2{
+    border:1px solid black;
+    background-color: lightblue;
+    color: black;
+}
+
+/*End of Abdullahi's Section*/
